@@ -1,10 +1,4 @@
-Here's a README file template for your project that predicts calories burned using an XGBoost Regressor based on exercise data. You can modify it according to your specific details or preferences.
-
----
-
 # Calories Burned Prediction
-
-## Project Overview
 
 The **Calories Burned Prediction** project aims to predict the calories burned by individuals based on their exercise data. By utilizing a dataset containing user-specific information such as gender, age, height, weight, duration of exercise, heart rate, and body temperature, we can effectively build a model to estimate the calories burned during physical activities.
 
@@ -108,29 +102,3 @@ The **Calories Burned Prediction** project aims to predict the calories burned b
 ## Conclusion
 
 This project demonstrates how machine learning can be applied to predict calories burned during physical activities, providing insights that can assist individuals in their fitness journeys. Future work may involve enhancing the model with additional features or employing different machine learning algorithms to improve accuracy.
-
-## Requirements
-
-- Python 3.x
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- XGBoost
-
-## Installation
-
-To install the required packages, you can use pip:
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn xgboost
-```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to add any additional sections or details specific to your project, such as acknowledgments, future improvements, or personal reflections!
